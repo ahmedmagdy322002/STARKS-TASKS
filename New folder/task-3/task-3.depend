@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702510104 source:c:\users\tiger\onedrive\desktop\task-3\main.c
+	<stdio.h>
+	<stdlib.h>
+
