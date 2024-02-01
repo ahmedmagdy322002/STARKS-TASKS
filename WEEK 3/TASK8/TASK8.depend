@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706823265 source:c:\users\tiger\onedrive\desktop\week 3\task8\task8.c
+	"TASK8.h"
+
+1706822592 c:\users\tiger\onedrive\desktop\week 3\task8\task8.h
+
+1706823265 source:c:\users\tiger\onedrive\desktop\week 3\task8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TASK8.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1706812406 source:c:\users\tiger\onedrive\desktop\week 3\task3\main.c
+	<stdio.h>
+	"TASK3.h"
+
+1706812406 source:c:\users\tiger\onedrive\desktop\week 3\task3\task3.c
+	"TASK3.h"
+
+1706812406 c:\users\tiger\onedrive\desktop\week 3\task3\task3.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1706819431 source:c:\users\tiger\onedrive\desktop\week 3\task5\main.c
+	<stdio.h>
+	<stdbool.h>
+	"TASK5.C"
+
+1706819431 c:\users\tiger\onedrive\desktop\week 3\task5\task5.c
+	"TASK5.h"
+
+1706819431 c:\users\tiger\onedrive\desktop\week 3\task5\task5.h
+
+1706819431 source:c:\users\tiger\onedrive\desktop\week 3\task5\task5.c
+	"TASK5.h"
+

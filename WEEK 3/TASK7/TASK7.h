@@ -1,0 +1,2 @@
+
+int qualityPoints(int average);

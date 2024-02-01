@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1706818640 source:c:\users\tiger\onedrive\desktop\week 3\task4\main.c
+	<stdio.h>
+	"TASK4.c"
+
+1706818303 c:\users\tiger\onedrive\desktop\week 3\task4\task4.h
+
+1706818640 source:c:\users\tiger\onedrive\desktop\week 3\task4\task4.c
+	<stdio.h>
+	"TASK4.h"
+
+1706818640 c:\users\tiger\onedrive\desktop\week 3\task4\task4.c
+	<stdio.h>
+	"TASK4.h"
+
