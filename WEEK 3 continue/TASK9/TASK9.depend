@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707329876 source:c:\users\tiger\onedrive\desktop\week 3 continue\task9\lab1 .c
+	<stdio.h>
+
+1707329876 source:c:\users\tiger\onedrive\desktop\week 3 continue\task9\main.c
+	<stdio.h>
+	"main.h"
+	"lab1.h"
+
+1707329876 c:\users\tiger\onedrive\desktop\week 3 continue\task9\main.h
+
+1707329876 c:\users\tiger\onedrive\desktop\week 3 continue\task9\lab1.h
+
