@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707764831 source:c:\users\tiger\onedrive\desktop\week 4\task5\function.c
+	<stdio.h>
+	<stdbool.h>
+	"function.h"
+
+1707764831 c:\users\tiger\onedrive\desktop\week 4\task5\function.h
+
+1707764831 source:c:\users\tiger\onedrive\desktop\week 4\task5\main.c
+	<stdio.h>
+	<stdbool.h>
+	"function.h"
+

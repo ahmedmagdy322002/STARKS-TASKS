@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707757513 source:c:\users\tiger\onedrive\desktop\week 4\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
